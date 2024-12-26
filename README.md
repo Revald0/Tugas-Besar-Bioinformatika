@@ -10,6 +10,6 @@
 
 ---
 
-## Deskripsi Proyek/Penelitian
+## Deskripsi Proyek
 
 Project ini bertujuan untuk mengembangkan model klasifikasi bioaktivitas senyawa terhadap SARS-CoV-2 dengan mengintegrasikan metode K-Means Clustering dan K-Nearest Neighbors (KNN). Pendekatan ini diusulkan untuk mengoptimalkan proses screening senyawa potensial yang dapat digunakan dalam pengembangan terapi antivirus. Selain membandingkan model KNN biasa dengan model KNN yang terintegrasi K-Means, project ini juga mengeksplorasi karakteristik molekuler senyawa untuk analisis lebih lanjut. Hasil menujukkan bahwa performa model KNN yang terintegrasi denganK-Means sedikit lebih unggul dari model KNN biasa.
